@@ -8,26 +8,22 @@ I'm a passionate Full-stack Web Developer with a keen interest in creating innov
 ## 🔧 Skills
 
 ### Front End
-- HTML
-- CSS
-- SASS
-- JavaScript
-- React.js
-- Next.js
-- Responsive Web Design
+- HTML &nbsp; <img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+- CSS  &nbsp; <img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+- SASS  &nbsp; <img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS">
+- JavaScript &nbsp; <img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+- React.js &nbsp; <img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js">
+- Next.js &nbsp; <img height="20" width="20" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="Next.js">
 
 ### Back End
-- PHP
-- Object-Oriented Programming
-- MySQL Databases
+- PHP &nbsp; <img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP">
+- MySQL
 
 ### Tools and Methodologies
-- Git
-- Figma
-- NPM
-- Composer
-- JavaScript Libraries
-- Leaflet
+- Git &nbsp; <img height="20" width="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
+- Figma &nbsp; <img height="20" width="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma">
+- NPM  &nbsp; <img height="20" width="20" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="NPM">
+- Composer 
 - BEM
 - MVC
 
@@ -40,6 +36,13 @@ I'm currently enhancing my skills in React.js and Next.js through self-directed 
 For me, the best place to work is where I can improve constantly. I'm open to exciting career opportunities that allow me to contribute my skills and continue growing as a developer.
 
 Let's connect and create something amazing together!
+
+## Contact:
+
+[![LinkedIn](https://img.shields.io/badge/Juan_Bautista_Aguilar-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-bautista-aguilar-01778715b/)
+</br>
+[![Email](https://img.shields.io/badge/juanbautistaaguilar21@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanbautistaaguilar21@gmail.com)
+
 
 <!--
 **Shadowy-22/Shadowy-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
