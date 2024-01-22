@@ -17,7 +17,7 @@ I'm a passionate Full-stack Web Developer with a keen interest in creating innov
 
 ### Back End
 - PHP &nbsp; <img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP">
-- MySQL
+- MySQL &nbsp; <img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
 
 ### Tools and Methodologies
 - Git &nbsp; <img height="20" width="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
