@@ -1,6 +1,6 @@
 # Hi there, I'm Juan Bautista! 👋
 
-I'm a passionate Argentinian Web Developer with a keen interest in creating innovative solutions to complex challenges. My constant drive to learn fuels my professional journey, and I've embraced a self-guided learning path, absorbing knowledge from various sources, including extensive reading and tutorials from reputable websites.
+I'm a passionate Argentinian Web Developer with a keen interest in creating innovative solutions to complex challenges. My constant drive to learn fuels my professional journey, and I've embraced a self-guided learning path, absorbing knowledge from various sources, including extensive reading and tutorials and courses from reputable websites.
 
 ## 🔧 Skills
 
