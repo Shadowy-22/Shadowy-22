@@ -29,7 +29,7 @@ I'm a passionate Full-stack Web Developer with a keen interest in creating innov
 
 ## 🚀 Current Focus
 
-I'm currently enhancing my skills in React.js and Next.js through self-directed learning, courses, and practical projects. My next goal is to master Node.js, as I believe it will complement my web development expertise. I'm enthusiastic about embracing new challenges and staying at the forefront of the ever-evolving tech landscape.
+I'm currently enhancing my skills in React.js and Next.js through self-directed learning, courses, and practical projects. My next goal is to master TypeScript and Node.js, as I believe it will complement my web development expertise. I'm enthusiastic about embracing new challenges and staying at the forefront of the ever-evolving tech landscape.
 
 ## 🌱 Constant Improvement
 
