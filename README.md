@@ -8,24 +8,19 @@ I'm a passionate Full-stack Web Developer with a keen interest in creating innov
 ## 🔧 Skills
 
 ### Front End
-- HTML &nbsp; <img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
-- CSS  &nbsp; <img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
-- SASS  &nbsp; <img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS">
-- JavaScript &nbsp; <img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-- React.js &nbsp; <img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js">
-- Next.js &nbsp; <img height="20" width="20" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="Next.js">
+- HTML, CSS, SASS, Tailwind CSS, JavaScript, React.js, Next.js
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,react,next)](https://skillicons.dev)
 
 ### Back End
-- PHP &nbsp; <img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP">
-- MySQL &nbsp; <img height="20" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
+- PHP, MySQL
+  
+  [![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev)
 
 ### Tools and Methodologies
-- Git &nbsp; <img height="20" width="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
-- Figma &nbsp; <img height="20" width="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma">
-- NPM  &nbsp; <img height="20" width="20" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="NPM">
-- Composer 
-- BEM
-- MVC
+- Git, Figma, NPM, Composer, SCRUM, BEM, MVC
+  
+  [![My Skills](https://skillicons.dev/icons?i=git,figma,npm,composer)](https://skillicons.dev)
 
 ## 🚀 Current Focus
 
