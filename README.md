@@ -18,7 +18,7 @@ I'm a passionate Full-stack Web Developer with a keen interest in creating innov
   [![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev)
 
 ### Tools and Methodologies
-- Git, Figma, NPM, Composer, SCRUM, BEM, MVC
+- Git, Figma, SourceTree, NPM, Composer, SCRUM, BEM, MVC
   
   [![My Skills](https://skillicons.dev/icons?i=git,figma,npm,composer)](https://skillicons.dev)
 
