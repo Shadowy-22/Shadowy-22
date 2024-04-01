@@ -36,7 +36,7 @@ Let's connect and create something amazing together!
 
 [![LinkedIn](https://img.shields.io/badge/Juan_Bautista_Aguilar-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-bautista-aguilar-01778715b/)
 </br>
-[![Email](https://img.shields.io/badge/juanbautistaaguilar21@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanbautistaaguilar21@gmail.com)
+[![Email](https://img.shields.io/badge/juanbautistaaguilar21@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanbautistaaguilar21@gmail.com)
 
 
 <!--
