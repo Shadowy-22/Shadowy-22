@@ -8,9 +8,9 @@ I'm a passionate Full-stack Web Developer with a keen interest in creating innov
 ## 🔧 Skills
 
 ### Front End
-- HTML, CSS, SASS, Tailwind CSS, JavaScript, React.js, Next.js
+- HTML, CSS, SASS, Tailwind CSS, JavaScript, React.js, Next.js, TypeScript
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,react,next)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,react,next,typescript)](https://skillicons.dev)
 
 ### Back End
 - PHP, MySQL
