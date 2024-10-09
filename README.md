@@ -7,9 +7,9 @@ I'm a passionate **Full-stack Web Developer** with a strong focus on **Backend D
 ## 🔧 Technical Skills
 
 ### Front End
-- **Technologies**: HTML, CSS, SASS, Tailwind CSS, JavaScript, React.js, Next.js, TypeScript
+- **Technologies**: HTML, CSS, Tailwind CSS, JavaScript, React.js, Next.js, TypeScript
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,react,next,typescript)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,next,typescript)](https://skillicons.dev)
 
 ### Back End
 - **Current Focus**: C#, .NET
