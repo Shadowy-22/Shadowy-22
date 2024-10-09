@@ -1,42 +1,52 @@
 # Hi there, I'm Juan Bautista! 👋
 
-![Screenshot 2024-01-22 111549](https://github.com/Shadowy-22/Shadowy-22/assets/119075581/40999ce8-b232-4128-90b1-72d0cdfca537)
+![Profile Banner](https://github.com/Shadowy-22/Shadowy-22/assets/119075581/40999ce8-b232-4128-90b1-72d0cdfca537)
 
+I'm a passionate **Full-stack Web Developer** with a strong focus on **Backend Development**, currently transitioning from **PHP** to **C# and .NET**. My journey in tech is driven by a love for solving complex challenges and a commitment to continuous learning.
 
-I'm a passionate Full-stack Web Developer with a keen interest in creating innovative solutions to complex challenges. My constant drive to learn fuels my professional journey, and I've embraced a self-guided learning path, absorbing knowledge from various sources, including extensive reading, tutorials and courses from reputable websites.
-
-## 🔧 Skills
+## 🔧 Technical Skills
 
 ### Front End
-- HTML, CSS, SASS, Tailwind CSS, JavaScript, React.js, Next.js, TypeScript
-
+- **Technologies**: HTML, CSS, SASS, Tailwind CSS, JavaScript, React.js, Next.js, TypeScript
+  
   [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,react,next,typescript)](https://skillicons.dev)
 
 ### Back End
-- PHP, MySQL
+- **Current Focus**: C#, .NET
   
-  [![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
+
+- **Previous Experience**: PHP, Java, MySQL
+  
+  [![My Skills](https://skillicons.dev/icons?i=php,java,mysql)](https://skillicons.dev)
 
 ### Tools and Methodologies
-- Git, Figma, SourceTree (Git GUI), NPM, Composer, SCRUM, BEM, MVC
+- Git, Figma, Trello, SCRUM, BEM, MVC
   
-  [![My Skills](https://skillicons.dev/icons?i=git,figma,npm,composer)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,figma,composer)](https://skillicons.dev)
 
 ## 🚀 Current Focus
 
-I'm currently enhancing my skills in React.js and Next.js through self-directed learning, courses, and practical projects. My next goal is to master TypeScript and Node.js, as I believe it will complement my web development expertise. I'm enthusiastic about embracing new challenges and staying at the forefront of the ever-evolving tech landscape.
+I am currently enhancing my skills in **C#** and **.NET** through hands-on projects, including:
+- Building REST APIs with **ASP.NET Core**
+- Implementing **Clean Architecture** principles
+- Utilizing **CQRS and MediatR** patterns
+- Setting up authentication with **ASP.NET Core Identity**
 
-## 🌱 Constant Improvement
+I believe this transition will enable me to create scalable, high-performance web applications and expand my capabilities as a developer.
 
-For me, the best place to work is where I can improve constantly. I'm open to exciting career opportunities that allow me to contribute my skills and continue growing as a developer.
+## 🌱 Growth Mindset
 
-Let's connect and create something amazing together!
+I'm always eager to learn and grow. My goal is to join a team where I can contribute my skills, learn from others, and continue evolving as a developer. If you're interested in collaborating or have exciting opportunities, feel free to reach out!
 
-## Contact:
+Let’s connect and build something amazing together!
+
+## 📫 Contact:
 
 [![LinkedIn](https://img.shields.io/badge/Juan_Bautista_Aguilar-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-bautista-aguilar-01778715b/)
-</br>
 [![Email](https://img.shields.io/badge/juanbautistaaguilar21@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanbautistaaguilar21@gmail.com)
+
+
 
 
 <!--
