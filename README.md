@@ -21,7 +21,7 @@ I'm a passionate **Full-stack Web Developer** with a strong focus on **Backend D
   [![My Skills](https://skillicons.dev/icons?i=php,java,mysql)](https://skillicons.dev)
 
 ### Tools and Methodologies
-- Git, Figma, Trello, SCRUM, BEM, MVC
+- Git, Figma, Trello, SCRUM, MVC, Clean Architecture
   
   [![My Skills](https://skillicons.dev/icons?i=git,figma,composer)](https://skillicons.dev)
 
